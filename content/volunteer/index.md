@@ -94,5 +94,5 @@ faq:
   - question: "Does NYC Mesh offer paid opportunities and internships?"
     answer: "NYC Mesh is primarily volunteer-run. Occasionally there are paid contractor positions for specific projects. Check Slack for any current openings."
 
-calendarEmbed: "https://calendar.google.com/calendar/embed?src=julian%40nycmesh.net&ctz=America%2FNew_York"
+calendarEmbed: "https://calendar.google.com/calendar/embed?src=c_e73e89b9981609e5dca197d77b30c803dcc6d959b68ea12acc68e55e6ffc2518%40group.calendar.google.com&ctz=America%2FNew_York"
 ---
