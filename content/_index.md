@@ -27,3 +27,5 @@ NYC Mesh is a neutral network and we do not monitor, collect, store or block any
 We can connect your apartment to the internet by putting an antenna on the roof of your building and running a cable to your apartment.
 
 We can also connect your whole building using fiber with speeds of 10 gigabit or more. Ask us about fiber to the home (FTTH). We are currently working with NYCHA and HPD on multiple large projects.
+
+If you're looking for the New York City Meshtastic network (a decentralized communications network), their website is <a href="https://nyme.sh" class="green">nyme.sh</a>.
